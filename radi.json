@@ -1,0 +1,69 @@
+{
+  "music": [
+     {
+      "id": "1",
+      "title": "There is Freedom",
+      "source": "https://s3.radio.co/s2781af807/listen",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/7e/a2/5d/7ea25d2a-1322-b30c-1cb7-936cad9184db/source/600x600bb.jpg",
+      "site": "churchbase.org",
+      "album": "Josh Baldwin",
+      "artist": "Josh Baldwin",
+      "genre": "Josh Baldwin",
+      "trackNumber": 0,
+      "totalTrackCount": 0,
+      "duration": 0
+    },
+    {
+      "id": "2",
+      "title": "Hope Stream",
+      "album": "Radio Co",
+      "artist": "tom",
+      "genre": "Jorden",
+      "source": "https://ice23.securenetsystems.net/CJFH",
+      "image": "https://storage.googleapis.com/uamp/Spatial%20Audio/Car%20pass.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 13,
+      "duration": 0,
+      "site": "www.churchbase.com"
+    },
+    {
+      "id": "3",
+      "title": "Radio Stream",
+      "album": "Radio Co",
+      "artist": "tom",
+      "genre": "Jorden",
+      "source": "https://s3.radio.co/s2781af807/listen",
+      "image": "https://storage.googleapis.com/uamp/Spatial%20Audio/Steamtrain.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 13,
+      "duration": 0,
+      "site": "www.churchbase.com"
+    },
+    {
+      "id": "4",
+      "title": "Radio Knkt jar",
+      "album": "Radio Co",
+      "artist": "tom",
+      "genre": "Jorden",
+      "source": "http://knkt.radiojar.com",
+      "image": "https://storage.googleapis.com/uamp/Spatial%20Audio/Rural%20market.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 13,
+      "duration": 0,
+      "site": "www.churchbase.com"
+    },
+    {
+      "id": "5",
+      "title": "FM 99.3",
+      "album": "Radio Co",
+      "artist": "tom",
+      "genre": "Jorden",
+      "source": "https://ice7.securenetsystems.net/CHJXFM",
+      "image": "https://storage.googleapis.com/uamp/Spatial%20Audio/Marching%20band.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 13,
+      "duration": 0,
+      "site": "www.churchbase.com"
+    }
+  ]
+}
